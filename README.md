@@ -65,12 +65,12 @@ Construyo soluciones backend, automatizo procesos y trabajo con datos para resol
 ### 📊 Estadísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rektres&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rektres&hide_border=true" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=Rektres&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
+<img src="https://streak-stats.demolab.com/?user=Rektres&hide_border=true" height="165">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rektres&layout=compact&hide_border=true" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rektres&layout=compact&hide_border=true" height="165">
 </p>
 
 ---
