@@ -62,17 +62,6 @@ Construyo soluciones backend, automatizo procesos y trabajo con datos para resol
 
 📎 Ver el resto en mi [portafolio](https://rektres.github.io/Portfolio/).
 
-### 📊 Estadísticas
-
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Rektres&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
-<img src="https://streak-stats.demolab.com/?user=Rektres&hide_border=true" height="165">
-</p>
-
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rektres&layout=compact&hide_border=true" height="165">
-</p>
-
 ---
 
 <p align="center"><i>📫 mateo.aramedi@gmail.com</i></p>
