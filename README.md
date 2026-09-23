@@ -17,7 +17,7 @@ Construyo soluciones backend, automatizo procesos y trabajo con datos para resol
 
 - Desarrollo funcionalidades e integraciones con APIs en **C# / .NET**, y optimizo queries en **SQL Server** en Wisetrack Corp.
 - Complemento el desarrollo backend con análisis de datos (**Python, Power BI, ETL**) y automatización de procesos.
-- Construyendo proyectos personales full-stack con **React, Django y Supabase**.
+- Construyendo aplicaciones web full-stack modernas con **React, Vue, Django, Express y Supabase**.
 
 ### 🛠️ Stack
 
@@ -44,8 +44,12 @@ Construyo soluciones backend, automatizo procesos y trabajo con datos para resol
 **Frontend & Herramientas**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -57,8 +61,8 @@ Construyo soluciones backend, automatizo procesos y trabajo con datos para resol
 | [**Cotizador**](https://github.com/Rektres/Cotizador) | Gestión de cotizaciones de servicios TI: cálculo de IVA, generación de PDF y envío por correo. | Python · Tkinter · SQLite |
 | [**FondosMutuos**](https://github.com/Rektres/FondosMutuos) | Descarga y filtra datos diarios de fondos mutuos desde la CMF, con exportación a Excel. | Python · Selenium |
 | [**NebuApp**](https://github.com/Rektres/NebuAppWeb) — [demo](https://rektres.github.io/NebuAppWeb/) | Registro de rutinas de bebés con sincronización en tiempo real entre perfiles vinculados. | JavaScript · Supabase · PostgreSQL |
-| [**RC Estampa**](https://github.com/Rektres/RC-Estampa/tree/React-Django-migration) | E-commerce con carrito, checkout y editor de diseño sobre canvas. | React · TypeScript · Django |
-| [**Orion Producciones**](https://github.com/Rektres/OrionProducciones/tree/migracion-django-vue) — [demo](https://www.orionstage.cl) | Sitio SPA para productora de eventos con cotizaciones online. | Vue · TypeScript · Django |
+| [**RC Estampa**](https://github.com/Rektres/RC-Estampa) — [demo](https://rektres.github.io/RC-Estampa/) | E-commerce con catálogo, cotizador B2B y editor sobre canvas. | React · TypeScript · Django |
+| [**Orion Producciones**](https://github.com/Rektres/OrionProducciones) — [demo](https://www.orionstage.cl) | Plataforma web SPA para productora de eventos y cotizador online. | Vue · TypeScript · Django |
 
 📎 Ver el resto en mi [portafolio](https://rektres.github.io/Portfolio/).
 
