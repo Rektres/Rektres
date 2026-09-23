@@ -60,9 +60,9 @@ Construyo soluciones backend, automatizo procesos y trabajo con datos para resol
 |---|---|---|
 | [**Cotizador**](https://github.com/Rektres/Cotizador) | Gestión de cotizaciones de servicios TI: cálculo de IVA, generación de PDF y envío por correo. | Python · Tkinter · SQLite |
 | [**FondosMutuos**](https://github.com/Rektres/FondosMutuos) | Descarga y filtra datos diarios de fondos mutuos desde la CMF, con exportación a Excel. | Python · Selenium |
-| [**NebuApp**](https://github.com/Rektres/NebuAppWeb) — [demo](https://rektres.github.io/NebuAppWeb/) | Registro de rutinas de bebés con sincronización en tiempo real entre perfiles vinculados. | JavaScript · Supabase · PostgreSQL |
-| [**RC Estampa**](https://github.com/Rektres/RC-Estampa) — [demo](https://rektres.github.io/RC-Estampa/) | E-commerce con catálogo, cotizador B2B y editor sobre canvas. | React · TypeScript · Django |
-| [**Orion Producciones**](https://github.com/Rektres/OrionProducciones) — [demo](https://www.orionstage.cl) | Plataforma web SPA para productora de eventos y cotizador online. | Vue · TypeScript · Django |
+| [**NebuApp**](https://github.com/Rektres/NebuAppWeb) — [sitio web](https://rektres.github.io/NebuAppWeb/) | Registro de rutinas de bebés con sincronización en tiempo real entre perfiles vinculados. | JavaScript · Supabase · PostgreSQL |
+| [**RC Estampa**](https://github.com/Rektres/RC-Estampa) — [sitio web](https://www.rcestampa.cl) | E-commerce con catálogo, cotizador B2B y editor sobre canvas. | React · TypeScript · Django |
+| [**Orion Producciones**](https://github.com/Rektres/OrionProducciones) — [sitio web](https://www.orionstage.cl) | Plataforma web SPA para productora de eventos y cotizador online. | Vue · TypeScript · Django |
 
 📎 Ver el resto en mi [portafolio](https://rektres.github.io/Portfolio/).
 
